@@ -1,0 +1,10 @@
+_minted-hw6/
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.xml
+*.jn
+*.bib
